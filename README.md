@@ -2,4 +2,9 @@
 
 Artificial Intelligence Development Framework.
 
-+ Major update: 4.3.24 1130 GMT.
+Updates soon.
+
+Please follow this fork & account(s):
+
+- NEUROSYN-TECHNOLOGIES.
+- No-Racoon1456.
